@@ -45,6 +45,6 @@ The automobile engineering design inputs are made available to entrepreneurs and
 10.	Steering
 11.	Lighting
 12.	Body - Dome and Internals + seats
-13.	Wheels, rims, and tires (15′)
+13.	Wheels, rims, and tires
 14.	Battery Charger + interface
 15.	Safety & security (Airbags + alerts)
