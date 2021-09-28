@@ -1,7 +1,16 @@
 # opensource-automobile-system-design
+
 An open source initiative to assist in the design the system for various classes of automobiles 
 
-The following components are majorily dealt with:
+## The process
+
+1. The usser input parameters are processed to generate the suggestions. 
+1. The selected options in the suggestions are re-processed for detailed specifications. 
+1. These detailed specifications can be helpful in validating for prototyping
+
+## User's inputs are 
+
+## The following components are majorily dealt with:
 
 1.	Frame (Chassis)
 1.	Motor
