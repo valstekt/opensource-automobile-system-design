@@ -4,16 +4,16 @@ An open source initiative to assist in the design the system for various classes
 
 # The Impact:
 The automobile engineering design inputs are made available to entrepreneurs and hobbyists worldwide so that 
-1. Their models are engineered well with the best global standards and costly mistakes are avoided
-2. Their time-to-market gets drastically reduced
+1. Their models are engineered well with the best global standards and costly mistakes are avoided.
+2. Their time-to-market gets drastically reduced.
 3. Prices of automobiles get reduced for there would be many manufacturers.
-4. Worldwide innovation can be utilized through community engagement
+4. Worldwide innovation can be utilized through community engagement.
 
 ## The process:
 
 1. The user input parameters are processed to generate the suggestions. 
 2. The selected options in the suggestions are re-processed for detailed specifications. 
-3. These detailed specifications can be helpful in validating for prototyping
+3. These detailed specifications can be helpful in validating for prototyping.
 
 # Electric vehicles
 
