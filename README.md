@@ -2,6 +2,14 @@
 
 An open source initiative to assist in the design the system for various classes of automobiles 
 
+![Design your Vehicle](https://valstekt.com/assets/public_docs/automobiles/DesignYourVehicle1.png)
+
+# The process:
+
+1. The user input parameters are processed to generate the suggestions. 
+2. The selected options in the suggestions are re-processed for detailed specifications. 
+3. These detailed specifications can be helpful in validating for prototyping.
+
 # The Impact:
 The automobile engineering design inputs are made available to entrepreneurs and hobbyists worldwide so that 
 1. Their models are engineered well with the best global standards and costly mistakes are avoided.
@@ -9,15 +17,7 @@ The automobile engineering design inputs are made available to entrepreneurs and
 3. Prices of automobiles get reduced for there would be many manufacturers.
 4. Worldwide innovation can be utilized through community engagement.
 
-## The process:
-
-1. The user input parameters are processed to generate the suggestions. 
-2. The selected options in the suggestions are re-processed for detailed specifications. 
-3. These detailed specifications can be helpful in validating for prototyping.
-
-![Design your Vehicle](https://valstekt.com/assets/public_docs/automobiles/DesignYourVehicle1.png)
-
-## Valstekt's Plan:
+# Valstekt's Plan:
 
 ![Valstekt's Open-Source Process](https://valstekt.com/assets/public_docs/automobiles/OpenSourceProcess.png)
 
