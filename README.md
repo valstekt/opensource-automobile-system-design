@@ -15,7 +15,7 @@ The automobile engineering design inputs are made available to entrepreneurs and
 2. The selected options in the suggestions are re-processed for detailed specifications. 
 3. These detailed specifications can be helpful in validating for prototyping.
 
-![Valstekt's Open-Source Process](https://valstekt.com/assets/public_docs/automobiles/DesignYourVehicle.png)
+![Valstekt's Open-Source Process](https://valstekt.com/assets/public_docs/automobiles/DesignYourVehicle1.png)
 
 ## Valstekt's Plan:
 
