@@ -3,7 +3,7 @@
 An open source initiative to assist in the design the system for various classes of automobiles 
 
 # Impact:
-The automobile engineering inputs are made available to entrepreneurs and hobbyists worldwide so that 
+The automobile engineering design inputs are made available to entrepreneurs and hobbyists worldwide so that 
 1. Their models are engineered well with the best global standards and costly mistakes are avoided
 2. Their time-to-market gets drastically reduced
 3. Prices of automobiles get reduced for there would be many manufacturers.
