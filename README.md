@@ -2,6 +2,13 @@
 
 An open source initiative to assist in the design the system for various classes of automobiles 
 
+# Impact:
+1. The automobile engineering inputs are made available to entrepreneurs and hobbyists worldwide so that 
+2. Their models are engineered well with the best global standards and costly mistakes are avoided
+3. Their time-to-market gets drastically reduced
+4. Prices of automobiles get reduced for there would be many manufacturers.
+5. Worldwide innovation can be utilized through community engagement
+
 ## The process:
 
 1. The usser input parameters are processed to generate the suggestions. 
