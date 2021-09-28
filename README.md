@@ -11,7 +11,7 @@ The automobile engineering design inputs are made available to entrepreneurs and
 
 ## The process:
 
-1. The usser input parameters are processed to generate the suggestions. 
+1. The user input parameters are processed to generate the suggestions. 
 2. The selected options in the suggestions are re-processed for detailed specifications. 
 3. These detailed specifications can be helpful in validating for prototyping
 
