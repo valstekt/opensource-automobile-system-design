@@ -3,18 +3,18 @@ An open source initiative to assist in the design the system for various classes
 
 The following components are majorily dealt with:
 
-1	Frame (Chassis)
-2	Motor
-3	Motor controller
-4	BMS (Battery Management System) + Batteries
-5	Braking system
-6	Lidar + sensors
-7	Cabling (CAN bus)
-8	Suspension system (Front & Rear)
-9	Shock absorption
-10	Steering
-11	Lighting
-12	Body - Dome and Internals + seats
-13	Wheels, rims, and tires (15′)
-14	Battery Charger + interface
-15	Safety & security (Airbags + alerts)
+1.	Frame (Chassis)
+1.	Motor
+1.	Motor controller
+1.	BMS (Battery Management System) + Batteries
+1.	Braking system
+1.	Lidar + sensors
+1.	Cabling (CAN bus)
+1.	Suspension system (Front & Rear)
+1.	Shock absorption
+1.	Steering
+1.	Lighting
+1.	Body - Dome and Internals + seats
+1.	Wheels, rims, and tires (15′)
+1.	Battery Charger + interface
+1.	Safety & security (Airbags + alerts)
