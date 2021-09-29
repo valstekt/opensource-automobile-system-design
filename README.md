@@ -48,3 +48,7 @@ The automobile engineering design inputs are made available to entrepreneurs and
 13.	Wheels, rims, and tires
 14.	Battery Charger + interface
 15.	Safety & security (Airbags + alerts)
+
+## Web App using Microsoft's Open-Source Technology - Blazor 
+
+![Valstekt's Open-Source Process](https://valstekt.com/assets/public_docs/automobiles/webapps1.png)
