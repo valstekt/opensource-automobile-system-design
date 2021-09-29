@@ -1,0 +1,77 @@
+﻿@page "/inputs"
+
+<h3>Design a vehicle</h3>
+<br />
+<br />
+<h5 class="alert-danger">Work-in-Progress</h5>
+<br />
+<br />
+<EditForm Model="VehicleInputs" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>
+        <label>
+            Type of vehicle:
+            <InputText @bind-Value="VehicleInputs.TypeOfVehicle" />
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Number of wheels
+            <InputText @bind-Value="VehicleInputs.NumberOfWheels" />
+        </label>
+    </p>
+
+    <p>
+        Dimensions of the body:
+        <label>
+            Length:
+            <InputText @bind-Value="VehicleInputs.BodyLength" />
+        </label>
+        <label>
+            Width:
+            <InputText @bind-Value="VehicleInputs.BodyWidth" />
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Weight that needs to carried
+            <InputText @bind-Value="VehicleInputs.CarriageWeight" />
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Number of seats
+            <InputText @bind-Value="VehicleInputs.NumberOfSeats" />
+        </label>
+    </p>
+
+    <p>
+        <label>
+            Fuel type
+            <InputText @bind-Value="VehicleInputs.FuelType" />
+        </label>
+    </p>
+
+    <button type="submit" class="btn btn-primary">Submit (work-in-progress)</button>
+</EditForm>
+
+@code {
+    public DesignInput VehicleInputs { get; set; }
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+        VehicleInputs = new DesignInput();
+    }
+
+    private void HandleValidSubmit()
+    {
+        // Process the valid form
+    }
+
+}

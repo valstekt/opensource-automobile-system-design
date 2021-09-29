@@ -1,0 +1,36 @@
+﻿@page "/"
+@inject NavigationManager Nav
+
+<h1>Open-source Automobile System Design</h1>
+<br />
+<br />
+<h5>The Approach:</h5>
+<br />
+<br />
+<ol>
+    <li>
+        The user input parameters are processed to generate the suggestions.
+    </li>
+    <li>
+        The selected options in the suggestions are re-processed for detailed specifications.
+    </li>
+    <li>
+        These detailed specifications can be helpful in validating for prototyping.
+    </li>
+</ol>
+<br />
+<br />
+<button class="btn btn-primary" @onclick="DesignVehicle">Design my vehicle</button>
+<br />
+<br />
+<h5>Sponsor us at <a href="https://github.com/sponsors/valstekt">Valstekt - Github</a></h5>
+
+@*<SurveyPrompt Title="Tilte" />*@
+
+@code
+{
+    private void DesignVehicle()
+    {
+        Nav.NavigateTo("/inputs");
+    }
+}
