@@ -2,6 +2,8 @@
 
 An open source initiative to assist in the design the system for various classes of automobiles 
 
+# The Goal: To make the building of an automobile easier for everyone. More the makers, lesser the prices. Nevertheless, quality has greater focus giving the makers wider industry choices.
+
 ![Design your Vehicle](https://valstekt.com/assets/public_docs/automobiles/DesignYourVehicle1.png)
 
 # The process:
