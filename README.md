@@ -31,7 +31,8 @@ The automobile engineering design inputs are made available to entrepreneurs and
 2. The number of wheels
 3. Dimensions of the body
 4. Weight that needs to carried
-5. The number of seats
+5. Speed range
+6. The number of seats
 
 ## Design choices for the following components are our major focus:
 
